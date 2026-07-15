@@ -3,9 +3,13 @@
 🚀 Aspiring Agentic AI Engineer
 
 🤖 Generative AI | Large Language Models (LLMs)
+
 🧩 AI Agents | RAG | LangChain | LangGraph
+
 🛠️ MCP | Tool Calling | Prompt Engineering
+
 🐍 Python | FastAPI | Vector Databases | Git
+
 📈 Building Real-World AI Applicationsneer
 
 <p align="center">
