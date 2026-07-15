@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/John Bibin V) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/john-bibin-v-b3607b3b5) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=johnbibinjb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=johnbibinjb&theme=dark&hide_border=false)<br/>
