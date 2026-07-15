@@ -1,6 +1,9 @@
 # 💫 About Me:
 👋 Hi, I'm John Bibin.<br>🎓 Computer Science (AI & ML) student with a strong interest in Generative AI and Agentic AI.<br>💻 Passionate about building AI solutions, exploring emerging technologies, and continuously expanding my skills.
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2200&pause=700&color=00FFD5&center=true&vCenter=true&width=1200&lines=Generative+AI+Engineer;Building+Intelligent+AI+Agents;Learning,+Innovating,+Deploying+AI+Solutions;Always+Exploring+Next-Generation+AI.." />
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dark_devil_.40) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/john-bibin-v-b3607b3b5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnbibinj@gmail.com) 
