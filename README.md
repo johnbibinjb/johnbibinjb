@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm John Bibin.<br>🎓 Computer Science (AI & ML) student with a strong interest in Generative AI and Agentic AI.<br>💻 Passionate about building AI solutions, exploring emerging technologies, and continuously expanding my skills.<br> <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/6ad2626b-1e4a-49f4-82b6-c182ef017370" />
-My favorite programming language : Python
+👋 Hi, I'm John Bibin.<br>🎓 Computer Science (AI & ML) student with a strong interest in Generative AI and Agentic AI.<br>💻 Passionate about building AI solutions, exploring emerging technologies, and continuously expanding my skills.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2200&pause=700&color=00FFD5&center=true&vCenter=true&width=1200&lines=Generative+AI+Engineer;Building+Intelligent+AI+Agents;Learning,+Innovating,+Deploying+AI+Solutions;Always+Exploring+Next-Generation+AI.." />
