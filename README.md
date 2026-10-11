@@ -1,18 +1,137 @@
-# 💫 About Me:
-👋 Hi, I'm John Bibin.<br>🎓 Computer Science (AI & ML) student with a strong interest in Generative AI and Agentic AI.<br>💻 Passionate about building AI solutions, exploring emerging technologies, and continuously expanding my skills.
-
+<h1 align="center">Hi , I'm [Your Name]</h1>
+<h3 align="center">
+ Full Stack Web Developer | Passionate Problem Solver | Building 
+Modern Web Experiences
+</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2200&pause=700&color=00FFD5&center=true&vCenter=true&width=1200&lines=Generative+AI+Engineer;Building+Intelligent+AI+Agents;Learning,+Innovating,+Deploying+AI+Solutions;Always+Exploring+Next-Generation+AI.." />
+<img src="https://readme-typing-svg.herokuapp.com?
+font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=
+true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+
+%7C+Node.js;Always+Learning+New+Technologies;Let's+Build+Something+A
+wesome!" />
 </p>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dark_devil_.40) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/john-bibin-v-b3607b3b5) 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) !(https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=johnbibinjb&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=johnbibinjb&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=johnbibinjb&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+## About Me
+- I'm a **Full Stack Web Developer** passionate about creating 
+responsive and user-friendly web applications.
+- I enjoy turning ideas into real-world projects.
+- Currently learning **Next.js, TypeScript, and Cloud 
+Technologies**.
+- Open to collaborating on exciting web development and open-
+source projects.
+- Always exploring modern technologies and best development 
+practices.
+- Fun Fact: **I love solving coding challenges and building 
+useful applications.**
+---
+## Connect With Me <p align="left">
+<a href="[LinkedIn URL]">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-
+the-badge&logo=linkedin"/>
+</a>
+<a href="[Portfolio URL]">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-
+the-badge&logo=vercel"/>
+</a>
+<a href="mailto:[Email Address]">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-
+badge&logo=gmail"/>
+</a>
+</p>
+---
+# Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?
+i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,
+tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
+</p>
+---
+# Featured Projects
+## Portfolio Website
+Modern personal portfolio showcasing projects, skills, and 
+experience. **Tech Stack**
+`HTML` `CSS` `JavaScript` `React`
+ Live Demo: [Portfolio URL]
+ Repository: [GitHub Repository]
+---
+## E-Commerce Website
+A responsive online shopping platform with authentication and cart 
+functionality.
+**Tech Stack**
+`React` `Node.js` `Express` `MongoDB`
+ Live Demo: [Project URL]
+ Repository: [GitHub Repository]
+---
+## Task Management App
+A productivity application to organize daily tasks with 
+authentication.
+**Tech Stack**
+`React` `Firebase` `Tailwind CSS`
+ Live Demo: [Project URL]
+ Repository: [GitHub Repository]
+---
+# GitHub Stats <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?
+username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_bord
+er=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/
+top-langs/?
+username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde
+r=true"/>
+</p>
+---
+# GitHub Streak
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?
+user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
+</p>
+---
+# Contribution Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?
+username=[GitHubUsername]&theme=tokyo-night"/>
+</p>
+---
+# GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?
+username=[GitHubUsername]&theme=tokyonight&no-frame=true&margin-
+w=10"/>
+</p>
+---
+# 🛠 Currently Working On
+- Building full-stack web applications.
+- Learning advanced React ecosystem.
+- Exploring cloud deployment and DevOps.
+- Improving responsive UI/UX design.
+---
+# Currently Learning
+- TypeScript
+- Next.js
+- Docker
+- AWS
+- System Design
+- Backend Architecture
+---
+# Goals for 2025
+- Contribute to Open Source
+- Build SaaS Applications
+- Master Full Stack Development
+- Learn Cloud Computing
+- Grow My Developer Portfolio
+---
+# Favorite Quote > "Code is like humor. When you have to explain it, it's bad." – 
+Cory House
+---
+<p align="center">
+<img src="https://komarev.com/ghpvc/?
+username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=fla
+t"/>
+</p>
+---
+<h3 align="center">
+ Thanks for visiting my profile! 
+</h3>
+<p align="center">
+If you like my work, consider giving a to my repositories and 
+connecting with me.
+</p>
